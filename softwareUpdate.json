@@ -2,19 +2,19 @@
 "Sentinel-1Processor":
     {
         "UpdateNotification":"1",
-        "LatestVersion":"20210411.1",
+        "LatestVersion":"20210813.1",
         "UpdateUrl":"https://github.com/Wu-Patrick/MyDownload/raw/master/Sentinel-1Processor.zip",
         "exeUrl":"https://github.com/Wu-Patrick/MyDownload/raw/master/Sentinel-1Processor-bin.zip",
-        "UpdateTime":"20210411",
+        "UpdateTime":"20210813",
         "ReleaseNote":"The license time of the full version is updated to 20130101-20211231.\n\n1. Note: This version needs to update all files! It is highly recommended to update. \n2. InSARProc.exe: Finely correct the offset between DEM and SAR images. \n3. InSARProc.exe: Add optional function: Geoid DEM correction. \n4. InSARProc.exe: Add optional function: Output the latitude, longitude, and elevation of the selected burst. \n5. ImageMosaic.exe: Fixed a crash that may occur when process large-scale data using 30-meter DEM. \n6. Fixed other known bugs."
     },
 "Sentinel-1Processor-PublicRelease":
     {
         "UpdateNotification":"1",
-        "LatestVersion":"20210411.1",
+        "LatestVersion":"20210813.1",
         "UpdateUrl":"https://github.com/Wu-Patrick/MyDownload/raw/master/Sentinel-1Processor-PublicRelease.zip",
         "exeUrl":"https://github.com/Wu-Patrick/MyDownload/raw/master/Sentinel-1Processor-PublicRelease-bin.zip",
-        "UpdateTime":"20210411",
+        "UpdateTime":"20210813",
         "ReleaseNote":"1. Note: This version needs to update all files! It is highly recommended to update. \n2. InSARProc.exe: Finely correct the offset between DEM and SAR images. \n3. InSARProc.exe: Add optional function: Geoid DEM correction. \n4. InSARProc.exe: Add optional function: Output the latitude, longitude, and elevation of the selected burst. \n5. ImageMosaic.exe: Fixed a crash that may occur when process large-scale data using 30-meter DEM. \n6. Fixed other known bugs."
     }
 }
